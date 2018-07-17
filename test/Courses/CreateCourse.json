@@ -1,0 +1,13 @@
+{
+  "url": "https://www.ultrabear.com.cn/auth/api/v1.0/admin/createcourse",
+  "headers": {
+    "Content-Type": "application/json",
+    "charset": "UTF-8",
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwibmFtZSI6ImFkbWluIiwib3BlbmlkIjoiIiwidW5pb25pZCI6IiIsInBlcm1pc3Npb24iOnsic3VwZXJhZG1pbiI6dHJ1ZX0sImV4cCI6MTUzMzcwNTcxOCwiaXNzIjoiVWx0cmFiZWFyLUF1dGgtU2VydmljZSIsIm5iZiI6MTUyNjcxMzcxOH0.1h4q3m4fFhR4RmfA5Dily78g6gx9Fuu2EgD06AUW2pQ"
+  },
+  "data": {
+	"name": "Scratch-July",
+	"start": "2018-07-01T00:00:00Z",
+	"end": "2018-07-31T23:59:59Z"
+}
+}

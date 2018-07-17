@@ -1,0 +1,12 @@
+{
+  "url": "https://www.ultrabear.com.cn/auth/api/v1.0/addphone",
+  "headers": {
+    "Content-Type": "application/json",
+    "charset": "UTF-8",
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImphbWlld3EiLCJuYW1lIjoiamFtaWV3cSIsIm9wZW5pZCI6IiIsInVuaW9uaWQiOiIiLCJoZWFkaW1ndXJsIjoiIiwicGVybWlzc2lvbiI6eyJzdXBlcmFkbWluIjp0cnVlfSwiZXhwIjoxNTI0MzM5MDg3LCJpc3MiOiJVbHRyYWJlYXItQXV0aC1TZXJ2aWNlIiwibmJmIjoxNTIxNzQ3MDg3fQ.zh_9tQYWYQSvRTe_CHDYpqvCBtXAhwUjl4ekxfEzeuU"
+  },
+  "data": {
+    "phone": "17472428342",
+    "wechatid": "jamiewq"
+  }
+}

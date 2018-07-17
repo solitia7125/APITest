@@ -1,0 +1,12 @@
+{
+  "url": "https://www.ultrabear.com.cn/auth/api/v1.0/register",
+  "data": {
+    "id": "15168219341",
+    "pwd": "dbf7b9413c216605a3e2f8343eaf6202",
+    "name": "Vera"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "charset": "UTF-8"
+  }
+}

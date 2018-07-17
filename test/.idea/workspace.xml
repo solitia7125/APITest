@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec930e5e-3314-4eb4-8c0f-a018205532ae" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="TestSuite.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestSuite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_test/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="webelement.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17712">
+              <caret line="502" column="65" selection-start-line="502" selection-start-column="65" selection-end-line="502" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="安装第三方模块.bat" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/★★★★★★★★运行前安装★★★★★★★★/安装第三方模块.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestFunc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestFunc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+              <folding>
+                <element signature="e#39#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PublicMethod.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PublicMethod.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="49" column="64" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="测试结果.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/测试结果.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16560">
+              <caret line="460" column="5" selection-start-line="460" selection-start-column="5" selection-end-line="460" selection-end-column="5" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="decoder.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/python/Lib/json/decoder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3960">
+              <caret line="112" column="37" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="37" />
+              <folding>
+                <element signature="e#37#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Wechat_Code_For_Info.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Authentication/Wechat_Code_For_Info.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>..</find>
+      <find>最棒QA</find>
+      <find>RETURN</find>
+      <find>test_update_phone</find>
+      <find>import</find>
+      <find>wechat</find>
+      <find>JSONDecodeError</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MyTestSuite.py" />
+        <option value="$PROJECT_DIR$/GET/test_All_User.py" />
+        <option value="$PROJECT_DIR$/POST/ChangePWD.json" />
+        <option value="$PROJECT_DIR$/POST/login.json" />
+        <option value="$PROJECT_DIR$/POST/Register.json" />
+        <option value="$PROJECT_DIR$/POST/Signup.json" />
+        <option value="$PROJECT_DIR$/POST/SMS_Send.json" />
+        <option value="$PROJECT_DIR$/POST/Update_Phone.json" />
+        <option value="$PROJECT_DIR$/POST/SetRole.json" />
+        <option value="$PROJECT_DIR$/POST/Update_Userinfo.json" />
+        <option value="$PROJECT_DIR$/POST/Wechat_Code_For_Info.json" />
+        <option value="$PROJECT_DIR$/public_test.py" />
+        <option value="$PROJECT_DIR$/POST/test_Login.py" />
+        <option value="$PROJECT_DIR$/POST/test_SetRole.py" />
+        <option value="$PROJECT_DIR$/POST/test_Signup.py" />
+        <option value="$PROJECT_DIR$/POST/test_Register.py" />
+        <option value="$PROJECT_DIR$/POST/test_SMS_Send.py" />
+        <option value="$PROJECT_DIR$/POST/test_Update_Phone.py" />
+        <option value="$PROJECT_DIR$/POST/test_Update_Userinfo.py" />
+        <option value="$PROJECT_DIR$/POST/test_Wechat_Code_For_Info.py" />
+        <option value="$PROJECT_DIR$/GET/All_User.json" />
+        <option value="$PROJECT_DIR$/GET/User_Basic_Info.json" />
+        <option value="$PROJECT_DIR$/GET/User_Detail_Info.json" />
+        <option value="$PROJECT_DIR$/GET/test_All_User/All_User.json" />
+        <option value="$PROJECT_DIR$/GET/test_All_User/test_All_User.py" />
+        <option value="$PROJECT_DIR$/GET/test_User_Detail_Info/test_User_Detail_info.py" />
+        <option value="$PROJECT_DIR$/GET/test_User_Basic_Info/test_User_Basic_Info.py" />
+        <option value="$PROJECT_DIR$/GET/test_User_Basic_Info/User_Basic_Info.json" />
+        <option value="$PROJECT_DIR$/GET/test_User_Detail_Info/User_Detail_Info.json" />
+        <option value="$PROJECT_DIR$/POST/test_ChangePWD.py" />
+        <option value="$PROJECT_DIR$/POST/test_Wechat_Code_For_Info/test_Wechat_Code_For_Info.py" />
+        <option value="$PROJECT_DIR$/POST/test_Update_phone/test_Update_Phone.py" />
+        <option value="$PROJECT_DIR$/POST/test_SMS_Send/test_SMS_Send.py" />
+        <option value="$PROJECT_DIR$/POST/test_Signup/test_Signup.py" />
+        <option value="$PROJECT_DIR$/POST/test_SetRole/test_SetRole.py" />
+        <option value="$PROJECT_DIR$/POST/test_Login/test_Login.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/HTMLTestReportCN.py" />
+        <option value="$PROJECT_DIR$/test_Login2/demo.py" />
+        <option value="$PROJECT_DIR$/POST/test_ChangePWD/ChangePWD.json" />
+        <option value="$PROJECT_DIR$/POST/test_ChangePWD/test_ChangePWD.py" />
+        <option value="$PROJECT_DIR$/POST/test_Update_Userinfo/test_Update_Userinfo.py" />
+        <option value="$PROJECT_DIR$/TestSuite.py" />
+        <option value="$PROJECT_DIR$/POST/test_Login/login.json" />
+        <option value="$PROJECT_DIR$/POST/test_Register/test_Register.py" />
+        <option value="$PROJECT_DIR$/Courses/CreateCourse.json" />
+        <option value="$PROJECT_DIR$/Courses/AllCourses.json" />
+        <option value="$PROJECT_DIR$/Authentication/Signup.json" />
+        <option value="$PROJECT_DIR$/PublicMethod.py" />
+        <option value="$PROJECT_DIR$/TestFunc.py" />
+        <option value="$PROJECT_DIR$/my_test/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/test/test_Login2/login.json" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\test\Authentication" />
+      <recent name="D:\test\POST\test_Wechat_Code_For_Info" />
+      <recent name="D:\test\POST\test_Update_Userinfo" />
+      <recent name="D:\test\POST\test_Update_phone" />
+      <recent name="D:\test\POST\test_SMS_Send" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test\GET\test_User_Detail_Info" />
+      <recent name="D:\test\GET\test_User_Basic_Info" />
+      <recent name="D:\test\GET\test_All_User" />
+      <recent name="D:\test\GET" />
+      <recent name="D:\test\POST" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="TestSuite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSuite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for TestFunc.TestFunc.test_1_register" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestFunc.TestFunc.test_1_register&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for TestFunc.TestFunc.test_2_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestFunc.TestFunc.test_2_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for TestFunc.TestFunc.test_wechat_code" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestFunc.TestFunc.test_wechat_code&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TestSuite" />
+      <item itemvalue="Python tests.Unittests for TestFunc.TestFunc.test_wechat_code" />
+      <item itemvalue="Python tests.Unittests for TestFunc.TestFunc.test_2_login" />
+      <item itemvalue="Python tests.Unittests for TestFunc.TestFunc.test_1_register" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.TestSuite" />
+        <item itemvalue="Python tests.Unittests for TestFunc.TestFunc.test_1_register" />
+        <item itemvalue="Python tests.Unittests for TestFunc.TestFunc.test_2_login" />
+        <item itemvalue="Python tests.Unittests for TestFunc.TestFunc.test_wechat_code" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec930e5e-3314-4eb4-8c0f-a018205532ae" name="Default" comment="" />
+      <created>1526438590657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526438590657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_MyTestSuite_MyTestSuite - 2018.05.21 at 11h 40m 17s.xml">
+      <configuration name="Unittests for MyTestSuite.MyTestSuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_MyTestSuite_MyTestSuite - 2018.05.21 at 11h 40m 46s.xml">
+      <configuration name="Unittests for MyTestSuite.MyTestSuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_MyTestSuite_MyTestSuite - 2018.05.21 at 11h 43m 24s.xml">
+      <configuration name="Unittests for MyTestSuite.MyTestSuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_MyTestSuite_MyTestSuite - 2018.05.21 at 11h 44m 16s.xml">
+      <configuration name="Unittests for MyTestSuite.MyTestSuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_MyTestSuite_MyTestSuite - 2018.05.21 at 11h 51m 13s.xml">
+      <configuration name="Unittests for MyTestSuite.MyTestSuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MyTestFunc_py - 2018.05.21 at 14h 12m 04s.xml">
+      <configuration name="Unittests in MyTestFunc.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestFunc_TestFunc_test_changepwd - 2018.05.25 at 11h 01m 11s.xml">
+      <configuration name="Unittests for TestFunc.TestFunc.test_changepwd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestFunc_TestFunc_test_wechat_code - 2018.05.25 at 11h 27m 18s.xml">
+      <configuration name="Unittests for TestFunc.TestFunc.test_wechat_code" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestFunc_TestFunc_test_2_login - 2018.05.25 at 16h 59m 49s.xml">
+      <configuration name="Unittests for TestFunc.TestFunc.test_2_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestFunc_TestFunc_test_1_register - 2018.06.01 at 18h 32m 52s.xml">
+      <configuration name="Unittests for TestFunc.TestFunc.test_1_register" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.76480263" visible="true" weight="0.1796875" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50572914" side_tool="true" visible="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49427083" weight="0.3296582" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" sideWeight="0.23519737" side_tool="true" visible="true" weight="0.1796875" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296582" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GET/test_User_Basic_Info/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Authentication/User_Basic_Info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GET/test_User_Basic_Info/test_User_Basic_Info.py" />
+    <entry file="file://$PROJECT_DIR$/POST/test_ChangePWD/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/GET/test_All_User/test_All_User.py" />
+    <entry file="file://$PROJECT_DIR$/POST/test_Wechat_Code_For_Info/test_Wechat_Code_For_Info.py" />
+    <entry file="file://$PROJECT_DIR$/POST/test_SMS_Send/test_SMS_Send.py" />
+    <entry file="file://$PROJECT_DIR$/POST/test_SetRole/test_SetRole.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/HTMLTestReportCN.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Login2/demo2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Login2/demo.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POST/test_Update_phone/test_Update_Phone.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POST/test_Update_Userinfo/test_Update_Userinfo.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="102" column="56" selection-start-line="102" selection-start-column="56" selection-end-line="102" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6048">
+          <caret line="175" column="23" lean-forward="true" selection-start-line="175" selection-start-column="23" selection-end-line="175" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="160" column="16" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/unittest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1829935707/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2124">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/unittest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3096">
+          <caret line="88" column="44" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/Register.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POST/test_Register/test_Register.py" />
+    <entry file="file://$PROJECT_DIR$/POST/test_Signup/test_Signup.py" />
+    <entry file="file://D:/python/Lib/warnings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="57" column="49" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POST/test_ChangePWD/test_ChangePWD.py" />
+    <entry file="file://$PROJECT_DIR$/POST/test_Login/test_Login.py" />
+    <entry file="file://$PROJECT_DIR$/Authentication/ChangePWD.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/All_User.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/login.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="4" lean-forward="true" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/User_Detail_Info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="66" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/SetRole.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="24" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/Signup.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Courses/AllCourses.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Courses/CreateCourse.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authentication/Wechat_Code_For_Info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3960">
+          <caret line="112" column="37" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="37" />
+          <folding>
+            <element signature="e#37#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试结果.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16560">
+          <caret line="460" column="5" selection-start-line="460" selection-start-column="5" selection-end-line="460" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PublicMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="49" column="64" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding>
+            <element signature="e#39#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSuite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17712">
+          <caret line="502" column="65" selection-start-line="502" selection-start-column="65" selection-end-line="502" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/★★★★★★★★运行前安装★★★★★★★★/安装第三方模块.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

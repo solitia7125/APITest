@@ -1,0 +1,13 @@
+{
+  "url": "https://www.ultrabear.com.cn/auth/api/v1.0/signup",
+  "headers": {
+    "Content-Type": "application/json",
+    "charset": "UTF-8"
+  },
+  "data": {
+    "phone": "7272178348",
+    "school": "Primary",
+    "grade": 5,
+    "experienced": true
+  }
+}

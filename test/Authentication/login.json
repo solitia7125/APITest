@@ -1,0 +1,11 @@
+{
+  "url": "https://www.ultrabear.com.cn/auth/api/v1.0/login",
+  "data": {
+    "id": "17472428342",
+    "pwd": "4297f44b13955235245b2497399d7a93"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "charset": "UTF-8"
+  }
+}

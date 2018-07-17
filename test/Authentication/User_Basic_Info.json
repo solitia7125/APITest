@@ -1,0 +1,8 @@
+{
+  "url": "https://www.ultrabear.com.cn/auth/api/v1.0/user/info",
+  "headers": {
+    "Content-Type": "application/json",
+    "charset": "UTF-8",
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3NDcyNDI4MzQyIiwibmFtZSI6IueOi-eQqiIsIm9wZW5pZCI6Im8wNm9TMGdxVDNTZU03clhhUmNSbng1WmJKVkkiLCJ1bmlvbmlkIjoib0VxU0QxUGVwLXFzVGJtZGE0OVc2VDFmTTFLUSIsImhlYWRpbWd1cmwiOiJodHRwOi8vdGhpcmR3eC5xbG9nby5jbi9tbW9wZW4vdmlfMzIvUTBqNFR3R1RmVEtmWjhrdmhpYngyT3hsbkhVZ29ibmNXWnlSeVNYV3ZLcEVMZkEzdVVUME4zTGFqY0JnTFhpYkd0WWRzaWFFSUNtdDJwUGo0Q3NpYThIa21BLzEzMiIsInBlcm1pc3Npb24iOnsic3VwZXJhZG1pbiI6dHJ1ZX0sImV4cCI6MTUyNDc3MjgzOSwiaXNzIjoiVWx0cmFiZWFyLUF1dGgtU2VydmljZSIsIm5iZiI6MTUyMjE4MDgzOX0.TKDBU5AshDK9gEvBDXq3NybBZmsHH3fplFnXWq9el4s"
+  }
+}

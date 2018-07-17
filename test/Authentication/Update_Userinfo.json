@@ -1,0 +1,12 @@
+{
+  "url": "https://www.ultrabear.com.cn/auth/api/v1.0/adduserid",
+  "headers": {
+    "Content-Type": "application/json",
+    "charset": "UTF-8",
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwibmFtZSI6ImFkbWluIiwib3BlbmlkIjoiIiwidW5pb25pZCI6IiIsInBlcm1pc3Npb24iOnsic3VwZXJhZG1pbiI6dHJ1ZX0sImV4cCI6MTUyMjYwNTcxOCwiaXNzIjoiVWx0cmFiZWFyLUF1dGgtU2VydmljZSIsIm5iZiI6MTUyMDAxMzcxOH0.VEtOCeC5ESDmNJEtQo-4C_fozKWYLqDuGbA83PJDNbQ"
+  },
+  "data": {
+    "id": "8613999999999",
+    "name": "fdsafdsafsda"
+  }
+}

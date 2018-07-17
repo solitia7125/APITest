@@ -1,0 +1,11 @@
+{
+  "url": "https://www.ultrabear.com.cn/auth/api/v1.0/wechat/teacherd",
+  "headers": {
+    "Content-Type": "application/json",
+    "charset": "UTF-8"
+  },
+  "data": {
+    "code": "061hdjGN1peJf21qxHEN1R7vGN1hdjGz"
+  }
+}
+
